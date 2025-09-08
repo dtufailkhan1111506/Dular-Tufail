@@ -24,7 +24,7 @@ Aspiring Business Analyst &amp; Data Enthusiast | MSc Management | Interested in
 ## 🛠️ Skills & Tools  
 - **SQL** (Intermediate–Advanced): Database design, queries, joins, aggregations.  
 - **Power BI** (Intermediate–Advanced): DAX, measures, slicers, dashboard design.  
-- **MS Excel** (Intermediate–Advanced): Pivot tables, VLOOKUP/XLOOKUP, data cleaning, formulas.  
+- **MS Excel** (Intermediate–Advanced): Pivot tables & Charts, VLOOKUP/XLOOKUP, data cleaning, formulas.  
 - **Project & Research Skills**: Data collection, analysis, reporting, stakeholder communication.  
 
 ---
@@ -50,11 +50,10 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 👉 [View Project Repository](#)  
 
 🔹 **ASOS_Sales_Strategy_Analysis/**
-├── Excel_Analysis.xlsx          (YoY financial analysis)
-├── SQL_Scripts.sql              (queries for sales decline check)
-├── Canva_Models/                (PESTLE, SWOT, Ansoff visuals)
-├── ASOS_Strategy_Report.docx    (final report)
-└── README.md                    (this file)
+- Excel Analysis.xlsx          (YoY financial analysis)
+- SQL Scripts.sql              (queries for sales decline check)
+- Canva Models/                (PESTLE, SWOT, Ansoff visuals)
+- ASOS Strategy Analysis Report.docx    (final report)
 👉 [View Project Repository](#)
 
 
@@ -62,5 +61,4 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 
 ## 📬 Connect With Me  
 - 📧 Email: dkhan1111506@gmail.com 
-- 💼 LinkedIn: [Your LinkedIn Link]  
 - 📂 Portfolio (GitHub): You’re already here 🚀  
