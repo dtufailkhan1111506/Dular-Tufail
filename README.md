@@ -1,4 +1,4 @@
-![Background](![731628](https://github.com/user-attachments/assets/8c0cc9e6-4f2d-4939-bfae-be6c7a0ca470))
+![Background](731628.jpg)
 
 <!-- Dark Header / Banner -->
 ![Header](./images/header.png)
