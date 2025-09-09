@@ -24,23 +24,8 @@
 
 ### 🛠️ Skills & Tools
 
-**SQL**  
-![SQL](https://img.shields.io/badge/SQL-70%25-brightgreen)
-
-**Power BI**  
-![Power BI](https://img.shields.io/badge/Power%20BI-75%25-yellow)
-
-**Excel**  
-![Excel](https://img.shields.io/badge/Excel-80%25-blue)
-
-**PowerPoint**  
-![PowerPoint](https://img.shields.io/badge/PowerPoint-70%25-purple)
-
-**Business Reporting / Data Interpretation**  
-![Reporting](https://img.shields.io/badge/Reporting-80%25-red)
-
-**Project & Research Skills**  
-![Research](https://img.shields.io/badge/Research-75%25-green)
+![SQL](https://img.shields.io/badge/SQL-70%25-brightgreen) | ![Power BI](https://img.shields.io/badge/Power%20BI-75%25-yellow) | ![Excel](https://img.shields.io/badge/Excel-80%25-blue) |
+![PowerPoint](https://img.shields.io/badge/PowerPoint-70%25-purple) | ![Reporting](https://img.shields.io/badge/Reporting-80%25-red) | ![Research](https://img.shields.io/badge/Research-75%25-green)
 
 - **SQL** (Intermediate–Advanced): Database design, queries, joins, aggregations. 
 -  **Power BI** (Intermediate–Advanced): DAX, measures, slicers, dashboard design. 
