@@ -24,7 +24,6 @@
 
 ---
 
-## 🛠️ Skills & Tools  
 ### 🛠️ Skills & Tools
 
 **SQL**  
