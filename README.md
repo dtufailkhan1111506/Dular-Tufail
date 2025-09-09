@@ -53,13 +53,15 @@
 ## 📊 Featured Projects  
 
 🔹 **ASOS_Sales_Strategy_Analysis/**
+ <img src="./images/project1.png" alt="ASOS Analysis" style="width:100%; height: 150px; object-fit: cover;">
 - Excel Analysis.xlsx          (YoY financial analysis)
 - SQL Scripts.sql              (queries for sales decline check)
 - Canva Models/                (PESTLE, SWOT, Ansoff visuals)
 - ASOS Strategy Analysis Report.docx    (final report)
 👉 [View Project Repository](#)
 
-🔹 **Excel Portfolio Showcase**    
+🔹 **Excel Portfolio Showcase**  
+<img src="./images/project1.png" alt="Excel Portfolio" style="width:100%; height: 150px; object-fit: cover;">
 A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel skills**:  
 - Data Cleaning & Preparation (TRIM, PROPER, VALUE).  
 - Advanced Lookups (VLOOKUP, XLOOKUP, INDEX+MATCH).  
@@ -68,85 +70,19 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 👉 [View Project Repository](#)  
 
 🔹 **Organisational Dashboarding (SAAP Data in Power BI)**  
+<img src="./images/project1.png" alt="Power BI dashboards" style="width:100%; height: 150px; object-fit: cover;">
 - Built interactive dashboards with slicers, filters, and KPIs.  
 - Applied DAX functions to highlight patterns and trends.  
 👉 [View Project Repository](#)
 
 🔹 **Family Micronutrient Progress Tracking and Data-Driven Analysis**  
+<img src="./images/project1.png" alt="Family Micronutient Progress Tracker" style="width:100%; height: 150px; object-fit: cover;">
 - SQL database designed for tracking dietary and health data.  
 - Visualised results in Power BI & Excel dashboards.  
 - Focused on transforming health data into actionable insights.  
 👉 [View Project Repository](#)  
 
 
-
-## 📂 Featured Projects
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Project 1 -->
-  <div style="width: 250px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
-    <a href="#" target="_blank">
-      <img src="./images/project1.png" alt="ASOS Analysis" style="width:100%; height: 150px; object-fit: cover;">
-      <h3 style="margin: 10px 0;">ASOS Sales Strategy</h3>
-      <p style="font-size: 14px; color: #ccc;">Excel, SQL & Canva Visuals</p>
-    </a>
-  </div>
-  - Excel Analysis.xlsx          (YoY financial analysis)
-- SQL Scripts.sql              (queries for sales decline check)
-- Canva Models/                (PESTLE, SWOT, Ansoff visuals)
-- ASOS Strategy Analysis Report.docx    (final report)
-
-  <!-- Project 2 -->
-  <div style="width: 250px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
-    <a href="#" target="_blank">
-      <img src="./images/project2.png" alt="Excel Portfolio" style="width:100%; height: 150px; object-fit: cover;">
-      <h3 style="margin: 10px 0;">Excel Portfolio</h3>
-      <p style="font-size: 14px; color: #ccc;">Advanced Excel Skills</p>
-    </a>
-  </div>
-A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel skills**:  
-- Data Cleaning & Preparation (TRIM, PROPER, VALUE).  
-- Advanced Lookups (VLOOKUP, XLOOKUP, INDEX+MATCH).  
-- Conditional Logic (IF, IFS, AND/OR).  
-- PivotTables, Pivot Charts & Interactive Dashboard.
-
-  <!-- Project 3 -->
-  <div style="width: 250px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
-    <a href="#" target="_blank">
-      <img src="./images/project3.png" alt="Power BI Dashboards" style="width:100%; height: 150px; object-fit: cover;">
-      <h3 style="margin: 10px 0;">Power BI Dashboards</h3>
-      <p style="font-size: 14px; color: #ccc;">Interactive Dashboards & KPIs</p>
-    </a>
-  </div>
-
-</div>
-<style>
-div div:hover {
-  transform: scale(1.05);
-}
-</style>
-- Built interactive dashboards with slicers, filters, and KPIs.  
-- Applied DAX functions to highlight patterns and trends. 
-<!-- Project 4-->
-<div style="width: 250px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s; margin: 10px;">
-  <a href="#" target="_blank">
-    <img src="./images/family_micronutrient.png" alt="Family Micronutrient Project" style="width:100%; height: 150px; object-fit: cover;">
-    <h3 style="margin: 10px 0;">Family Micronutrient Progress</h3>
-    <p style="font-size: 14px; color: #ccc;">SQL Database + Power BI & Excel Dashboards</p>
-  </a>
-</div>
-
-<style>
-div div:hover {
-  transform: scale(1.05);
-}
-</style>
-- SQL database designed for tracking dietary and health data.  
-- Visualised results in Power BI & Excel dashboards.  
-- Focused on transforming health data into actionable insights.  
-
----
 
 
 
