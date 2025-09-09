@@ -25,26 +25,6 @@
 ---
 
 ## 🛠️ Skills & Tools  
-- **SQL** <!-- Dark Header / Banner -->
-![Header](./images/header.png)
-
-# Hi, I'm Dular Tufail 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8B8&width=500&lines=Aspiring+Business+Analyst;Data+Enthusiast;MSc+in+Management+with+Project+Management)
-
----
-
-## 🌟 About Me
-🎯 **Aspiring Business Analyst / Data Enthusiast**  
-- Passionate about helping organizations make **data-driven decisions**.  
-- Experienced in **SQL, Power BI, Excel, Reporting, Data Interpretation & PPT Presentations**.  
-- Looking for my next challenge in **Data & Business Analytics 📊📈** – let’s connect!  
-
----
-
-## 🛠️ Skills & Tools  
-
-### Technical Skills
 
 **SQL** ██████████░░░░░░ 70% (Intermediate → Advanced): Database design, queries, joins, aggregations.  
 - **Power BI** ███████████░░░░ 75% (Intermediate → Advanced): DAX, measures, slicers, dashboard design.  
