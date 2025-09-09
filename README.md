@@ -30,28 +30,10 @@
 - **SQL** (Intermediate–Advanced): Database design, queries, joins, aggregations. 
 -  **Power BI** (Intermediate–Advanced): DAX, measures, slicers, dashboard design. 
 -  **MS Excel** (Intermediate–Advanced): Pivot tables & Charts, VLOOKUP/XLOOKUP, data cleaning, formulas. 
--  **Project & Research Skills**: Data collection, analysis, reporting, stakeholder communication.
-
+-  ** Consultancy Business Project & Research Skills**: Data collection, analysis, reporting, stakeholder communication.
+-  **PPT** (Intermediate to Advanced): Presentation of Business Data and Strategy analysis, Interpretation, Conclusion & Recomendations for best informed decisions.
 
 ## 📊 Featured Projects  
-
-🔹 **ASOS_Sales_Strategy_Analysis/**
-
- <img src="./images/project1.png" alt="ASOS Analysis" style="width:100%; height: 150px; object-fit: cover;">
-- Excel Analysis.xlsx          (YoY financial analysis)
-- SQL Scripts.sql              (queries for sales decline check)
-- Canva Models/                (PESTLE, SWOT, Ansoff visuals)
-- ASOS Strategy Analysis Report.docx    (final report)
-👉 [View Project Repository](#)
-
-🔹 **Excel Portfolio Showcase**  
-<img src="./images/project1.png" alt="Excel Portfolio" style="width:100%; height: 150px; object-fit: cover;">
-A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel skills**:  
-- Data Cleaning & Preparation (TRIM, PROPER, VALUE).  
-- Advanced Lookups (VLOOKUP, XLOOKUP, INDEX+MATCH).  
-- Conditional Logic (IF, IFS, AND/OR).  
-- PivotTables, Pivot Charts & Interactive Dashboard.
-👉 [View Project Repository](#)  
 
 🔹 **Organisational Dashboarding (SAAP Data in Power BI)**  
 <img src="./images/project1.png" alt="Power BI dashboards" style="width:100%; height: 150px; object-fit: cover;">
@@ -64,9 +46,24 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 - SQL database designed for tracking dietary and health data.  
 - Visualised results in Power BI & Excel dashboards.  
 - Focused on transforming health data into actionable insights.  
+👉 [View Project Repository](#)
+
+🔹 **Excel Portfolio Showcase**  
+<img src="./images/project1.png" alt="Excel Portfolio" style="width:100%; height: 150px; object-fit: cover;">
+A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel skills**:  
+- Data Cleaning & Preparation (TRIM, PROPER, VALUE).  
+- Advanced Lookups (VLOOKUP, XLOOKUP, INDEX+MATCH).  
+- Conditional Logic (IF, IFS, AND/OR).  
+- PivotTables, Pivot Charts & Interactive Dashboard.
 👉 [View Project Repository](#)  
 
-
+🔹 **ASOS_Sales_Strategy_Analysis/**
+ <img src="./images/project1.png" alt="ASOS Analysis" style="width:100%; height: 150px; object-fit: cover;">
+- Excel Analysis.xlsx          (YoY financial analysis)
+- SQL Scripts.sql              (queries for sales decline check)
+- Canva Models/                (PESTLE, SWOT, Ansoff visuals)
+- ASOS Strategy Analysis Report.docx    (final report)
+👉 [View Project Repository](#)
 
 
 
