@@ -1,5 +1,3 @@
-![Background](731628.jpg)
-
 <!-- Dark Header / Banner -->
 ![Header](./images/header.png)
   
