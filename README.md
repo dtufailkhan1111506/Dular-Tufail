@@ -16,7 +16,7 @@
   - Matriculation – Queen Mary College, Lahore (2012, Grade B)  
 
 - 🚀 In 2025, I upskilled in **SQL, Power BI (Intermediate–Advanced), and MS Excel (Intermediate–Advanced)**.  
-- 🔍 Passionate about turning raw data into insights that solve real-world problems.  
+- 🔍 Passionate about turning raw data into insights that solve real-world business problems.  
 - 🌱 Currently exploring **business analytics projects** and expanding my data portfolio.
 - Looking for my next challenge in **Data & Business Analytics 📊📈** – let’s connect!  
 
