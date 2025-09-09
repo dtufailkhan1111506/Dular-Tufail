@@ -53,6 +53,7 @@
 ## 📊 Featured Projects  
 
 🔹 **ASOS_Sales_Strategy_Analysis/**
+
  <img src="./images/project1.png" alt="ASOS Analysis" style="width:100%; height: 150px; object-fit: cover;">
 - Excel Analysis.xlsx          (YoY financial analysis)
 - SQL Scripts.sql              (queries for sales decline check)
