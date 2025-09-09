@@ -92,6 +92,10 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
       <p style="font-size: 14px; color: #ccc;">Excel, SQL & Canva Visuals</p>
     </a>
   </div>
+  - Excel Analysis.xlsx          (YoY financial analysis)
+- SQL Scripts.sql              (queries for sales decline check)
+- Canva Models/                (PESTLE, SWOT, Ansoff visuals)
+- ASOS Strategy Analysis Report.docx    (final report)
 
   <!-- Project 2 -->
   <div style="width: 250px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
@@ -101,6 +105,11 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
       <p style="font-size: 14px; color: #ccc;">Advanced Excel Skills</p>
     </a>
   </div>
+A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel skills**:  
+- Data Cleaning & Preparation (TRIM, PROPER, VALUE).  
+- Advanced Lookups (VLOOKUP, XLOOKUP, INDEX+MATCH).  
+- Conditional Logic (IF, IFS, AND/OR).  
+- PivotTables, Pivot Charts & Interactive Dashboard.
 
   <!-- Project 3 -->
   <div style="width: 250px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
@@ -112,13 +121,14 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
   </div>
 
 </div>
-
 <style>
 div div:hover {
   transform: scale(1.05);
 }
 </style>
-<!-- Family Micronutrient Project Card -->
+- Built interactive dashboards with slicers, filters, and KPIs.  
+- Applied DAX functions to highlight patterns and trends. 
+<!-- Project 4-->
 <div style="width: 250px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s; margin: 10px;">
   <a href="#" target="_blank">
     <img src="./images/family_micronutrient.png" alt="Family Micronutrient Project" style="width:100%; height: 150px; object-fit: cover;">
@@ -132,17 +142,13 @@ div div:hover {
   transform: scale(1.05);
 }
 </style>
-
-
----
-
-## 📈 GitHub Stats
-
-![Dular's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtufailkhan1111506&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dtufailkhan1111506&layout=compact&theme=tokyonight)
-
+- SQL database designed for tracking dietary and health data.  
+- Visualised results in Power BI & Excel dashboards.  
+- Focused on transforming health data into actionable insights.  
 
 ---
+
+
 
 ## 📬 Connect With Me  
 - 📧 Email: dkhan1111506@gmail.com 
