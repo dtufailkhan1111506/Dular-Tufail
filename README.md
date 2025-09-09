@@ -25,60 +25,17 @@
 ---
 
 ## 🛠️ Skills & Tools  
+**SQL** ▰▰▰▰▰▰▰▱▱▱ 70%  
+**Power BI** ▰▰▰▰▰▰▰▰▱▱ 75%  
+**Excel** ▰▰▰▰▰▰▰▰▰▱ 80%  
+**PowerPoint** ▰▰▰▰▰▰▰▱▱▱ 70%  
+**Reporting** ▰▰▰▰▰▰▰▰▰▱ 80%  
+**Project & Research** ▰▰▰▰▰▰▰▰▱▱ 75%
+- **SQL** (Intermediate–Advanced): Database design, queries, joins, aggregations. 
+-  **Power BI** (Intermediate–Advanced): DAX, measures, slicers, dashboard design. 
+-  **MS Excel** (Intermediate–Advanced): Pivot tables & Charts, VLOOKUP/XLOOKUP, data cleaning, formulas. 
+-  **Project & Research Skills**: Data collection, analysis, reporting, stakeholder communication.
 
-## 🛠️ Skills & Tools
-
-<div style="display: flex; flex-direction: column; gap: 15px; max-width: 600px;">
-
-  <!-- SQL -->
-  <div>
-    <strong>SQL</strong> – Database design, queries, joins, aggregations
-    <div style="background-color: #ddd; border-radius: 10px; overflow: hidden; height: 20px; width: 100%;">
-      <div style="width: 70%; background-color: #1abc9c; height: 100%; text-align: right; color: white; padding-right: 5px; line-height: 20px;">70%</div>
-    </div>
-  </div>
-
-  <!-- Power BI -->
-  <div>
-    <strong>Power BI</strong> – DAX, measures, slicers, dashboard design
-    <div style="background-color: #ddd; border-radius: 10px; overflow: hidden; height: 20px; width: 100%;">
-      <div style="width: 75%; background-color: #f39c12; height: 100%; text-align: right; color: white; padding-right: 5px; line-height: 20px;">75%</div>
-    </div>
-  </div>
-
-  <!-- Excel -->
-  <div>
-    <strong>MS Excel</strong> – Pivot tables & Charts, VLOOKUP/XLOOKUP, data cleaning, formulas
-    <div style="background-color: #ddd; border-radius: 10px; overflow: hidden; height: 20px; width: 100%;">
-      <div style="width: 80%; background-color: #3498db; height: 100%; text-align: right; color: white; padding-right: 5px; line-height: 20px;">80%</div>
-    </div>
-  </div>
-
-  <!-- PowerPoint -->
-  <div>
-    <strong>PowerPoint (PPT)</strong> – Professional presentations
-    <div style="background-color: #ddd; border-radius: 10px; overflow: hidden; height: 20px; width: 100%;">
-      <div style="width: 70%; background-color: #9b59b6; height: 100%; text-align: right; color: white; padding-right: 5px; line-height: 20px;">70%</div>
-    </div>
-  </div>
-
-  <!-- Reporting & Interpretation -->
-  <div>
-    <strong>Business Reporting / Data Interpretation</strong>
-    <div style="background-color: #ddd; border-radius: 10px; overflow: hidden; height: 20px; width: 100%;">
-      <div style="width: 80%; background-color: #e74c3c; height: 100%; text-align: right; color: white; padding-right: 5px; line-height: 20px;">80%</div>
-    </div>
-  </div>
-
-  <!-- Project & Research Skills -->
-  <div>
-    <strong>Project & Research Skills</strong> – Data collection, analysis, reporting, stakeholder communication
-    <div style="background-color: #ddd; border-radius: 10px; overflow: hidden; height: 20px; width: 100%;">
-      <div style="width: 75%; background-color: #2ecc71; height: 100%; text-align: right; color: white; padding-right: 5px; line-height: 20px;">75%</div>
-    </div>
-  </div>
-
-</div>
 
 ## 📊 Featured Projects  
 
