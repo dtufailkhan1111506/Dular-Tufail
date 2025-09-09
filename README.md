@@ -1,7 +1,7 @@
 <!-- Dark Header / Banner -->
-![Header](./images/header.png)
+![Header](./https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/headergithub.jpeg)
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8B8&width=500&lines=Hi,+I'm+Dular+Tufail+👋)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8B8&width=500&lines=**Hi,+I'm+Dular+Tufail**+👋)
 
 🎯 **Aspiring Business Analyst/ Data Enthusiast** | MSc in Management with Project Management | Interested in helping organisations make data-driven decisions through SQL, Power BI & Excel, supported by strong skills in Data Interpretation, Business Reporting, and Professional Presentations (PPT)
 
