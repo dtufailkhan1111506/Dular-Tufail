@@ -58,6 +58,7 @@
   - Focused on transforming health data into actionable insights.
   👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Family%20Micronutrient%20Progress%20Tracking%20and%20Data-Driven%20Analysis%20Report.pdf].           
 
+
 🔹 **Excel Portfolio Showcase**  
 <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
   <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20025257.png"
@@ -72,7 +73,9 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 - PivotTables, Pivot Charts & Interactive Dashboard.
 👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Excel%20File%20for%20Portfolio.xlsb].  
 
+
 🔹 **ASOS_Sales_Strategy_Analysis/**
+
 <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
   <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20033945.png" 
        alt="Power BI dashboards"
@@ -91,6 +94,7 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
        width="400" height="300" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </a>      
+
 - Excel Analysis.xlsx          (YoY financial analysis)
 - SQL Scripts.sql              (queries for sales decline check)
 - Canva Models/                (PESTLE, SWOT, Ansoff visuals)
