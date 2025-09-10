@@ -39,7 +39,7 @@
   <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
   <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
        alt="Power BI dashboards"
-       width="300" height="200" 
+       width="500" height="400" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </a>                                                                                                                                                                                                             
 - Built interactive dashboards with slicers, filters, and KPIs.                                                                                                              
