@@ -37,7 +37,7 @@
 
 🔹 **Organisational Dashboarding (SAAP Data in Power BI)**                                                      
   <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
-  <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-08-31%20162405.png" 
+  <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
        alt="Power BI dashboards"
        width="900" height="800" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
@@ -48,7 +48,7 @@
                                                                                    
      🔹 **Family Micronutrient Progress Tracking and Data-Driven Analysis**                                                                                       
   <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
-  <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
+  <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-08-31%20162405.png" 
        alt="Power BI dashboards"
        width="900" height="800" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
