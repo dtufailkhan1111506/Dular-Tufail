@@ -36,7 +36,7 @@
 ## 📊 Featured Projects  
 
 🔹 **Organisational Dashboarding (SAAP Data in Power BI)**  
-<img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" alt="Power BI dashboards" style="width:100%; height: 150px; object-fit: cover;">
+<img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" alt="Power BI dashboards" style="width:100%; height: 250px; object-fit: cover;">
 - Built interactive dashboards with slicers, filters, and KPIs.  
 - Applied DAX functions to highlight patterns and trends.  
 👉 [View Project Repository](#)
