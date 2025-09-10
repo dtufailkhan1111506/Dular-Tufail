@@ -76,21 +76,21 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
   <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20033945.png" 
        alt="Power BI dashboards"
-       width="900" height="800" 
-       style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</a>                                
+       width="400" height="300" 
+       style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> 
+</a>   |                             
 <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
   <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20034032.png" 
        alt="Power BI dashboards"
-       width="900" height="800" 
+       width="400" height="300" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</a>        
+</a>        |
 <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
   <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20034200.png" 
        alt="Power BI dashboards"
-       width="900" height="800" 
+       width="400" height="300" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</a>      
+</a>      |
 - Excel Analysis.xlsx          (YoY financial analysis)
 - SQL Scripts.sql              (queries for sales decline check)
 - Canva Models/                (PESTLE, SWOT, Ansoff visuals)
