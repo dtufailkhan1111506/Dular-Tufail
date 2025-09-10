@@ -56,7 +56,7 @@
   - SQL database designed for tracking dietary and health
   - Visualised results in Power BI & Excel dashboards.
   - Focused on transforming health data into actionable insights.
-  👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Family%20Micronutrient%20Progress%20Tracking%20and%20Data-Driven%20Analysis%20Report.pdf]           
+  👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Family%20Micronutrient%20Progress%20Tracking%20and%20Data-Driven%20Analysis%20Report.pdf].           
 
 🔹 **Excel Portfolio Showcase**  
 <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
