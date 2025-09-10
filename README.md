@@ -36,7 +36,7 @@
 ## 📊 Featured Projects  
 
 🔹 **Organisational Dashboarding (SAAP Data in Power BI)**                                                      
-  <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
+  <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
   <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-08-31%20162405.png" 
        alt="Power BI dashboards"
        width="900" height="800" 
