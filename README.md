@@ -1,5 +1,5 @@
-<!-- Dark Header / Banner -->!
-[Header](https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/headergithub.jpeg)
+<!-- Dark Header / Banner -->
+![Header](https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/headergithub.jpeg)
 
 
   
