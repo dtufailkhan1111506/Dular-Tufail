@@ -51,7 +51,7 @@
 - SQL database designed for tracking dietary and health data.  
 - Visualised results in Power BI & Excel dashboards.  
 - Focused on transforming health data into actionable insights.  
-👉 [View Project Repository](#)
+👉 [https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Business%20Data%20Analytics%20-%20Dashboards%20for%20SAAP%20in%20Power%20BI.pbixy](#)
 
 🔹 **Excel Portfolio Showcase**  
 <img src="./images/project1.png" alt="Excel Portfolio" style="width:100%; height: 150px; object-fit: cover;">
