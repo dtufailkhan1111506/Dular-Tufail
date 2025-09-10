@@ -1,5 +1,5 @@
-<!-- Dark Header / Banner -->
-![Header](https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/headergithub.jpeg)
+<!-- Dark Header / Banner -->!
+[Header](https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/headergithub.jpeg)
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&Style=Bold&pause=1000&color=F7A8B8&width=500&lines=Hi,+I'm+Dular+Tufail+👋)
 
@@ -36,7 +36,7 @@
 ## 📊 Featured Projects  
 
 🔹 **Organisational Dashboarding (SAAP Data in Power BI)**                                                      
-  <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
+  <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
   <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
        alt="Power BI dashboards"
        width="900" height="800" 
@@ -47,7 +47,7 @@
 👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Business%20Data%20Analytics%20-%20Dashboards%20for%20SAAP%20in%20Power%20BI.pbix]
                                                                                    
      🔹 **Family Micronutrient Progress Tracking and Data-Driven Analysis**                                                                                       
-  <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
+  <a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
   <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-08-31%20162405.png" 
        alt="Power BI dashboards"
        width="900" height="800" 
@@ -59,8 +59,8 @@
   👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Family%20Micronutrient%20Progress%20Tracking%20and%20Data-Driven%20Analysis%20Report.pdf].           
 
 🔹 **Excel Portfolio Showcase**  
-<a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
-  <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
+<a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
+  <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20025805.png"
        alt="Power BI dashboards"
        width="900" height="800" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
