@@ -47,14 +47,24 @@
 👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Business%20Data%20Analytics%20-%20Dashboards%20for%20SAAP%20in%20Power%20BI.pbix]
                                                                                    
      🔹 **Family Micronutrient Progress Tracking and Data-Driven Analysis**                                                                                       
-         <img src="./images/project1.png" alt="Family Micronutient Progress Tracker" style="width:100%;height: 150px; object-fit: cover;">data.
+  <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
+  <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
+       alt="Power BI dashboards"
+       width="900" height="800" 
+       style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</a>                                                                        
   - SQL database designed for tracking dietary and health
   - Visualised results in Power BI & Excel dashboards.
   - Focused on transforming health data into actionable insights.
   👉 [](#)           
 
 🔹 **Excel Portfolio Showcase**  
-<img src="./images/project1.png" alt="Excel Portfolio" style="width:100%; height: 150px; object-fit: cover;">
+<a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
+  <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
+       alt="Power BI dashboards"
+       width="900" height="800" 
+       style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</a>                                                                        
 A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel skills**:  
 - Data Cleaning & Preparation (TRIM, PROPER, VALUE).  
 - Advanced Lookups (VLOOKUP, XLOOKUP, INDEX+MATCH).  
@@ -63,7 +73,12 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 👉 [View Project Repository](#)  
 
 🔹 **ASOS_Sales_Strategy_Analysis/**
- <img src="./images/project1.png" alt="ASOS Analysis" style="width:100%; height: 150px; object-fit: cover;">
+<a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
+  <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
+       alt="Power BI dashboards"
+       width="900" height="800" 
+       style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</a>                                                                        
 - Excel Analysis.xlsx          (YoY financial analysis)
 - SQL Scripts.sql              (queries for sales decline check)
 - Canva Models/                (PESTLE, SWOT, Ansoff visuals)
