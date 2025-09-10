@@ -1,5 +1,7 @@
 <!-- Dark Header / Banner -->!
 [Header](https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/headergithub.jpeg)
+
+
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&Style=Bold&pause=1000&color=F7A8B8&width=500&lines=Hi,+I'm+Dular+Tufail+👋)
 
