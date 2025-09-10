@@ -70,7 +70,7 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 - Advanced Lookups (VLOOKUP, XLOOKUP, INDEX+MATCH).  
 - Conditional Logic (IF, IFS, AND/OR).  
 - PivotTables, Pivot Charts & Interactive Dashboard.
-👉 [View Project Repository](#)  
+👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Excel%20File%20for%20Portfolio.xlsb].  
 
 🔹 **ASOS_Sales_Strategy_Analysis/**
 <a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
