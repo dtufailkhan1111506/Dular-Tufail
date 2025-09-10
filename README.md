@@ -73,17 +73,29 @@ A multi-sheet Excel workbook demonstrating my **intermediate to advanced Excel s
 👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Excel%20File%20for%20Portfolio.xlsb].  
 
 🔹 **ASOS_Sales_Strategy_Analysis/**
-<a href="https://github.com/dtufailkhan1111506/Dular-Tufail">
-  <img src="https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Screenshot%202025-09-10%20005749.png" 
+<a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
+  <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20033945.png" 
        alt="Power BI dashboards"
        width="900" height="800" 
        style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</a>                                                                        
+</a>                                
+<a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
+  <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20034032.png" 
+       alt="Power BI dashboards"
+       width="900" height="800" 
+       style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</a>        
+<a href="https://github.com/dtufailkhan1111506/Portfolio-Projects">
+  <img src="https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Screenshot%202025-09-10%20034200.png" 
+       alt="Power BI dashboards"
+       width="900" height="800" 
+       style="border-radius:10px; margin:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</a>      
 - Excel Analysis.xlsx          (YoY financial analysis)
 - SQL Scripts.sql              (queries for sales decline check)
 - Canva Models/                (PESTLE, SWOT, Ansoff visuals)
 - ASOS Strategy Analysis Report.docx    (final report)
-👉 [View Project Repository](#)
+👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/blob/main/Business%20Project%20on%20ASOS%20Plc%20(Portfolio).pdf]
 
 
 
