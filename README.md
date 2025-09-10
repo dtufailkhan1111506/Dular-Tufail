@@ -44,7 +44,7 @@
 </a>
 - Built interactive dashboards with slicers, filters, and KPIs.  
 - Applied DAX functions to highlight patterns and trends.  
-👉 [https://github.com/dtufailkhan1111506/Dular-Tufail/blob/main/Business%20Data%20Analytics%20-%20Dashboards%20for%20SAAP%20in%20Power%20BI.pbixyy](#)
+👉 [https://github.com/dtufailkhan1111506/Portfolio-Projects/commits?author=dtufailkhan1111506](#)
 
 🔹 **Family Micronutrient Progress Tracking and Data-Driven Analysis**  
 <img src="./images/project1.png" alt="Family Micronutient Progress Tracker" style="width:100%; height: 150px; object-fit: cover;">
